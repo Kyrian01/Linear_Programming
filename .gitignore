@@ -1,0 +1,12 @@
+# Julia compiled files
+*.jl.cov
+*.ji
+*.o
+*.so
+
+# Julia package environments
+/.julia/
+Manifest.toml
+
+# VS Code settings
+.vscode
